@@ -9,3 +9,7 @@ print(calculate.x)
 print(calculate.y)
 print(calculate.z)
 
+Test 1
+def foo(s):
+  return (s)
+  
